@@ -3,6 +3,7 @@
 
     <item
         android:id="@+id/rojo"
+        android:checked="false"
         android:icon="@drawable/home"
         android:title="@string/txtRojo" />
     <item
