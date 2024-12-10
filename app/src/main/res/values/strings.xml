@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tarea4NavegaciónConFragments</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="rojo">Soy rojo.</string>
+    <string name="azul">Soy azul.</string>
+    <string name="verde">Soy verde.</string>
+    <string name="txtRojo">Rojo</string>
+    <string name="txtAzul">Azul</string>
+    <string name="txtVerde">Verde</string>
+</resources>
